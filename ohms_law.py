@@ -10,4 +10,5 @@ def calc_resistance (voltage, current):
         Notes:
          The function raises a ZeroDivisionError if current is 0.
         """
-    return voltage / current 
+    return voltage / current
+
